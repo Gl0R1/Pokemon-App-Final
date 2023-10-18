@@ -1,0 +1,20 @@
+@use './variables' as v;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(11, 92, 31);
+
+  background-image: url(../img/pikachu.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  
+  
+  
+}
+
